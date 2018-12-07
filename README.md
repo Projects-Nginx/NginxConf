@@ -16,8 +16,8 @@ sudo nginx -s stop
 
 http://localhost:8080
 
-brew uninstall nginx
-brew install nginx-full --with-rtmp-module
+//brew uninstall nginx
+//brew install nginx-full --with-rtmp-module
 
 brew install ffmpeg
 
